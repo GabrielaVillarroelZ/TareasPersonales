@@ -1,0 +1,14 @@
+/Users/gabrielavillarroel/TareasPersonales/TareasPersonales/bin/Debug/net9.0/TareasPersonales
+/Users/gabrielavillarroel/TareasPersonales/TareasPersonales/bin/Debug/net9.0/TareasPersonales.deps.json
+/Users/gabrielavillarroel/TareasPersonales/TareasPersonales/bin/Debug/net9.0/TareasPersonales.runtimeconfig.json
+/Users/gabrielavillarroel/TareasPersonales/TareasPersonales/bin/Debug/net9.0/TareasPersonales.dll
+/Users/gabrielavillarroel/TareasPersonales/TareasPersonales/bin/Debug/net9.0/TareasPersonales.pdb
+/Users/gabrielavillarroel/TareasPersonales/TareasPersonales/obj/Debug/net9.0/TareasPersonales.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielavillarroel/TareasPersonales/TareasPersonales/obj/Debug/net9.0/TareasPersonales.AssemblyInfoInputs.cache
+/Users/gabrielavillarroel/TareasPersonales/TareasPersonales/obj/Debug/net9.0/TareasPersonales.AssemblyInfo.cs
+/Users/gabrielavillarroel/TareasPersonales/TareasPersonales/obj/Debug/net9.0/TareasPersonales.csproj.CoreCompileInputs.cache
+/Users/gabrielavillarroel/TareasPersonales/TareasPersonales/obj/Debug/net9.0/TareasPersonales.dll
+/Users/gabrielavillarroel/TareasPersonales/TareasPersonales/obj/Debug/net9.0/refint/TareasPersonales.dll
+/Users/gabrielavillarroel/TareasPersonales/TareasPersonales/obj/Debug/net9.0/TareasPersonales.pdb
+/Users/gabrielavillarroel/TareasPersonales/TareasPersonales/obj/Debug/net9.0/TareasPersonales.genruntimeconfig.cache
+/Users/gabrielavillarroel/TareasPersonales/TareasPersonales/obj/Debug/net9.0/ref/TareasPersonales.dll
